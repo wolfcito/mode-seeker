@@ -1,0 +1,5 @@
+{
+  "name": "Mode seeker",
+  "description": "Tool to check if your Smart Contract is Registered in the Sequencer Fee Sharing (SFS)",
+  "iconPath": "logo.svg"
+}
